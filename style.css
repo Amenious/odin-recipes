@@ -1,0 +1,21 @@
+body {
+    background-color: #2b2b2b;
+    font-family: sans-serif;
+}
+
+div.content {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+a {
+    color: gray;
+}
