@@ -17,5 +17,18 @@ ul {
 }
 
 a {
-    color: gray;
+    color: black;
+}
+
+.header {
+    border-bottom: black 5px solid;
+    margin: 25px auto;
+}
+
+.item {
+    max-width: 100px;
+    background-color: ghostwhite;
+    border: black 2px solid;
+    display: inline;
+    padding: 10px;
 }
